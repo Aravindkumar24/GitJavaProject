@@ -24,7 +24,7 @@ public class PrintStrike {
 	}else if(myNum % 2 == 0) {
 		System.out.println("2 Strike");
 	}else if (isDivivisiblebyanyOne) {
-		System.out.println("3 Strike");
+		System.out.println("1 Strike");
 	}else {
 		System.out.println("0 Strike");
 	}
